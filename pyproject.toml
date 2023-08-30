@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "start-getting-to-know-tests"
+version = "0.1.0"
+description = "My first homework on automated testing."
+authors = ["Anastasiia Nezgovorova <odabcrfake@gmail.com>"]
+readme = "README.md"
+packages = [{include = "start_getting_to_know_tests"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
