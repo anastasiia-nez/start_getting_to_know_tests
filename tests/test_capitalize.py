@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from capitalize import capitalize
 
 if capitalize('hello') != 'Hello':
