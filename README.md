@@ -1,6 +1,5 @@
 ### Description
 This is my homework on automated testing.
-You can try to break the tests by changing the capitalize.py file.
 
 ### Get the homework-project
 ```
